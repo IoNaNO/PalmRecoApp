@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.tongji.plamApp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>plamApp</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <icon src="res/icon/logo.png" />
+    <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:; connect-src 'self' *" /> -->
+    <platform name="android">
+        <preference name="android-targetSdkVersion" value="30" />
+    </platform>
+</widget>
