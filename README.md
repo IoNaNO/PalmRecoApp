@@ -1,4 +1,4 @@
-# Plamprint Recogniton Frontend
+# Palmprint Recogniton Frontend
 ## Key commands
 1. Run debug
 ```bash
